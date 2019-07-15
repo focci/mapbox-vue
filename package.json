@@ -1,0 +1,31 @@
+{
+  "name": "mapbox-vue",
+  "version": "0.0.2",
+  "description": "mapbox-vue is wrapper around Mapbox GL JS library.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/focci/mapbox-vue.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-css-prefix": "latest",
+    "gulp-cssnano": "latest",
+    "gulp-postcss": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest"
+  },
+  "keywords": [
+    "mapbox",
+    "vue",
+    "mapbox-vue"
+  ],
+  "author": "focci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/focci/mapbox-vue/issues"
+  },
+  "homepage": "https://github.com/focci/mapbox-vue#readme",
+  "dependencies": {}
+}
